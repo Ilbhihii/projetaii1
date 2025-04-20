@@ -25,7 +25,6 @@ const Hero = () => {
           </text>
         </svg>
       </nav>
-
       <h1 className='head_text'>
         Résumer les articles avec <br className='max-md:hidden' />
         <span className='bg-gradient-to-r from-violet-600 to-blue-400 bg-clip-text text-transparent'>AI</span>
