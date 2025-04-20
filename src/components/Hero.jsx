@@ -31,7 +31,7 @@ const Hero = () => {
         <span className='bg-gradient-to-r from-violet-600 to-blue-400 bg-clip-text text-transparent'>AI</span>
       </h1>
       <h2 className='desc'>
-      Simplifiez votre lecture avec Summize, un outil de synthèse d'articles open 
+      Simplifiez votre lecture avec Synthesia, un outil de synthèse d'articles open 
       source qui transforme les longs articles en résumés clairs et concis.
       </h2>
     </header>
