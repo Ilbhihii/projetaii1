@@ -28,7 +28,7 @@ const Hero = () => {
 
       <h1 className='head_text'>
         Résumer les articles avec <br className='max-md:hidden' />
-        <span className='orange_gradient '>AI</span>
+        <span className='bg-gradient-to-r from-violet-600 to-blue-400 bg-clip-text text-transparent'>AI</span>
       </h1>
       <h2 className='desc'>
       Simplifiez votre lecture avec Summize, un outil de synthèse d'articles open 
